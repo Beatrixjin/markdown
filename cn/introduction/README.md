@@ -19,3 +19,7 @@ For students, we provide most up-to-date technology education. With practical sk
 ## A StartUp Partner
 
 Since 2013, we have partnered with many founders of StartUp companies from all industries. Now have an aggregate, public market value of over $3 million AUD. If you’re looking for A StartUp Partner, contact us.
+
+## Wechat Academy
+
+[SK8科研社] 在海外学习IT的你，有没有满腹疑问与迷茫...让SK8科研社带你走进最全面最前沿最专业的信息世界吧。我们的科研社面向所有对IT技术有兴趣的朋友们, 欢迎各路大神前来分享您的开发秘籍, 参与方式请戳这里。
